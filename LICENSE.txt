@@ -1,0 +1,38 @@
+Minimal Synkyrian Training Companion (v1)
+Copyright (c) 2025 Panagiotis Kalomoirakis
+
+Research-Only, Non-Commercial License
+-------------------------------------
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and distribute the Software for RESEARCH AND EDUCATIONAL
+PURPOSES ONLY, subject to the following conditions:
+
+1. Non-Commercial Use Only
+   The Software may NOT be used, in whole or in part, for any commercial
+   purpose without prior written permission from the copyright holder.
+   "Commercial purpose" includes (but is not limited to) use of the Software
+   in any product or service that is sold, licensed, monetized, or used
+   internally within a for-profit organization as part of a commercial
+   offering.
+
+2. Attribution
+   Any published work, report, or derivative code that uses this Software
+   or the associated ideas (including the "Synkyrian Training Companion"
+   concept and indices) must provide appropriate attribution, for example:
+
+     P. Kalomoirakis, "A Minimal Synkyrian Training Companion: Early Warning
+     on Neural Network Training Runs", 2025.
+
+3. No Warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT
+   OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+   THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+By using the Software, you agree to be bound by the terms of this license.
+For commercial licensing inquiries, please contact the author.
