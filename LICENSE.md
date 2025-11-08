@@ -22,8 +22,7 @@ PURPOSES ONLY, subject to the following conditions:
    or the associated ideas (including the "Synkyrian Training Companion"
    concept and indices) must provide appropriate attribution, for example:
 
-     P. Kalomoirakis, "A Minimal Synkyrian Training Companion: Early Warning
-     on Neural Network Training Runs", 2025.
+     Kalomoirakis, P. (2025). Minimal Synkyrian Training Companion (v1). Zenodo. https://doi.org/10.5281/zenodo.17560487
 
 3. No Warranty
    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
