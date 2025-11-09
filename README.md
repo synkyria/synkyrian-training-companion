@@ -226,7 +226,7 @@ Zenodo. https://doi.org/10.5281/zenodo.17561599
 
 
 A simple BibTeX entry you can use:
-
+```
 @software{kalomoirakis2025_companion_software,
   author       = {Kalomoirakis, Panagiotis},
   title        = {Minimal Synkyrian Training Companion (v1.0)},
@@ -244,7 +244,7 @@ A simple BibTeX entry you can use:
   doi          = {10.5281/zenodo.17561599},
   url          = {https://doi.org/10.5281/zenodo.17561599}
 }
-
+```
 ---
 
 ## 7. License
