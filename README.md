@@ -212,27 +212,38 @@ The repository is deliberately kept small and focused to make it easy to read an
 
 ---
 
-## 6. Citation / reference
+## 6. Citation / Reference
 
-If you use this code or the ideas behind the Synkyrian Training Companion in academic work or internal reports, please cite:
+If you use the Synkyrian Training Companion in academic work, research prototypes, or internal reports, please cite both the **software release** and the **technical note**:
 
-> P. Kalomoirakis, *A Minimal Synkyrian Training Companion: Early Warning on Neural Network Training Runs*, 2025.
+### Software (implementation)
+Kalomoirakis, P. (2025). *Minimal Synkyrian Training Companion (v1.0)* [Software].
+Zenodo. https://doi.org/10.5281/zenodo.17561539
+
+### Technical Note (conceptual and methodological background)
+Kalomoirakis, P. (2025). *A Minimal Synkyrian Training Companion: Early Warning on Neural Network Training Runs*.
+Zenodo. https://doi.org/10.5281/zenodo.17561599
+
 
 A simple BibTeX entry you can use:
 
-```bibtex
-@misc{kalomoirakis2025synkyriancompanion,
-  author = {Panagiotis Kalomoirakis},
-  title  = {A Minimal Synkyrian Training Companion: Early Warning on Neural Network Training Runs},
-  year   = {2025},
-  note   = {Technical note and code repository},
+@software{kalomoirakis2025_companion_software,
+  author       = {Kalomoirakis, Panagiotis},
+  title        = {Minimal Synkyrian Training Companion (v1.0)},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17561539},
+  url          = {https://doi.org/10.5281/zenodo.17561539}
 }
-```
 
-If you also refer to the accompanying technical PDF, you can mention it as:
-
-> P. Kalomoirakis, *A Minimal Synkyrian Training Companion: Early Warning on Neural Network Training Runs*, 2025.
-> (See `docs/minimal_synkyrian_training_companion.pdf` in this repository.)
+@misc{kalomoirakis2025_companion_note,
+  author       = {Kalomoirakis, Panagiotis},
+  title        = {A Minimal Synkyrian Training Companion: Early Warning on Neural Network Training Runs},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17561599},
+  url          = {https://doi.org/10.5281/zenodo.17561599}
+}
 
 ---
 
